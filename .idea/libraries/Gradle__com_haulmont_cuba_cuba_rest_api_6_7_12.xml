@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.haulmont.cuba:cuba-rest-api:6.7.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-rest-api/6.7.12/77a74884b8f117936d57074ca11f754445c8a976/cuba-rest-api-6.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-rest-api/6.7.12/c03c3a45046211b5c1c622dfb1830ace25617a82/cuba-rest-api-6.7.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

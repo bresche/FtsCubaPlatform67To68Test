@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.haulmont.cuba:cuba-client:6.7.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-client/6.7.12/e777ee64438d85eff2eba0ec3a8fa57297f65bb2/cuba-client-6.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-client/6.7.12/c342bd6f61d768492796f52f2143a176f4425505/cuba-client-6.7.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

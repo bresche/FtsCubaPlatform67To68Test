@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fts-config xmlns="http://schemas.haulmont.com/cuba/fts.xsd">
+    <entities>
+        <entity class="com.company.cft.entity.Customer">
+            <include re=".*"/>
+            <include name="info"/>
+            <include name="info.address"/>
+            <searchables>
+                <![CDATA[com.company.cft.service.CustomerFtsIndexService customerFtsIndexService = com.haulmont.cuba.core.global.AppBeans.get(com.company.cft.service.CustomerFtsIndexService.NAME)
+            searchables.addAll(customerFtsIndexService.getAddresses(entity))]]>
+            </searchables>
+        </entity>
+        <entity class="com.company.cft.entity.BaseCustomer">
+            <include re=".*"/>
+        </entity>
+        <entity class="com.company.cft.entity.BaseInformation">
+            <include re=".*"/>
+        </entity>
+        <entity class="com.company.cft.entity.Address">
+            <include re=".*"/>
+        </entity>
+    </entities>
+</fts-config>

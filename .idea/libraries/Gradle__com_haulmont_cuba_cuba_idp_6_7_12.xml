@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.haulmont.cuba:cuba-idp:6.7.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-idp/6.7.12/c68108b416bd28968becfa58a7d5c263f51cbf8d/cuba-idp-6.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.haulmont.cuba/cuba-idp/6.7.12/831e8c66151a75de2204b5647973b12149bbde7a/cuba-idp-6.7.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
